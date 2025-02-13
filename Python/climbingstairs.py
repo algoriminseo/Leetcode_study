@@ -15,7 +15,7 @@ class Solution:
     #     return self.dict[n]
     
     
-    #Iterative sol
+    #Dp sol
     def climbStairs(self, n: int) -> int:
         result = 0
         temp1 = 1
